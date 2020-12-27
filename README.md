@@ -4,11 +4,11 @@ Credits to http://www.rc-forum.de/showthread.php?4006290-Fahrtregler-Leistung-dr
 
 ## Hardware
 
-Chassis: Tomiyo 1:10 TT-02R 
-Motor: Robitronic Razer 1/10 Brushless Motor 3652 3000kV
-Controller: Robotronic Razer 1/10 Brushless Speed Controller 60A 2-3s
-Arduino: Arduino Micro
-Receiver: Reflex Wheel PRO3 2,4 GHz 
+ * Chassis: Tomiyo 1:10 TT-02R 
+ * Motor: Robitronic Razer 1/10 Brushless Motor 3652 3000kV
+ * Controller: Robotronic Razer 1/10 Brushless Speed Controller 60A 2-3s
+ * Arduino: Arduino Micro
+ * Receiver: Reflex Wheel PRO3 2,4 GHz 
 
 ## Circuit
 
