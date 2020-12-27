@@ -12,9 +12,9 @@ Receiver: Reflex Wheel PRO3 2,4 GHz
 
 ## Circuit
 
-* Sig from receiver to D2
-* Sig to motor to D9
-* GND / 7,4V
+ * Sig from receiver to D2
+ * Sig to motor to D9
+ * GND / 7,4V
 
 ## Behavior
 
